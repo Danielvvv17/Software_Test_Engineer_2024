@@ -31,6 +31,7 @@ Completing orders and verifying payments.
 Identifying performance and compatibility issues on various mobile devices.
 
 🚀 Testing Process
+
 Requirements Analysis:
 Reviewed key functionalities and use case scenarios for the applications.
 
@@ -49,6 +50,7 @@ Tests were run locally and in the cloud using platforms like BrowserStack for cr
 Generating Reports:
 
 Results were consolidated into reports generated with Allure, including screenshots of failures and detailed scenario logs.
+
 📊 Results and Observations
 Booking.com:
 
@@ -61,6 +63,8 @@ Performance issues were observed on older devices, requiring optimization.
 
 
 📂 Project Structure
+
+
 plaintext
 Copiază
 Editează
@@ -74,5 +78,6 @@ Editează
 
 
 💡 Conclusion
+
 This project highlights the importance of automated testing in quickly identifying critical issues. Using tools like Selenium and Appium enabled efficient validation of the applications across multiple platforms. Future plans include adding more complex test cases and integrating CI/CD for automated test execution.
 
